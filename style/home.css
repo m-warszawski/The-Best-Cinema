@@ -1,0 +1,22 @@
+.main {
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid orange;
+}
+
+#tbc {
+    color: orange;
+    font-weight: bolder;
+}
+
+@media (max-width: 100%) {
+
+    .full-height,
+    .full-height body,
+    .full-height header,
+    .full-height header .view {
+        height: 700px;
+    }
+}

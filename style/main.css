@@ -1,0 +1,163 @@
+html {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+#root {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+    font-weight: bolder;
+}
+
+.naglowek p {
+    color: #fff;
+}
+
+.odstep {
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+.us {
+    color: white;
+    display: block;
+}
+
+p.us {
+    padding-top: 15px;
+    text-align: center;
+}
+
+a.us {
+    text-decoration: none;
+}
+
+.us:hover {
+    color: orange;
+}
+
+.lin {
+    color: white;
+    display: block;
+}
+
+p.lin {
+    padding-top: 15px;
+    text-align: center;
+}
+
+a.lin {
+    text-decoration: none;
+}
+
+.lin:hover {
+    color: orange;
+}
+
+a.logo:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.navbar {
+    background-color: orange;
+}
+
+.navbar>button>span {
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbar button:hover {
+    color: white;
+    background-color: rgb(235, 152, 0);
+}
+
+.navbar a {
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    /* display: inline-block; */
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: white;
+    background-color: rgb(235, 152, 0);
+}
+
+.naglowek {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tytulowy {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.tytul {
+    padding: 20px;
+    text-align: center;
+}
+
+.media {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px dotted white;
+}
+
+.social {
+    text-align: right;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 14px;
+    color: #a5a5a5;
+    margin: 20px;
+}
+
+.fb, .insta, .tw {
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fb:hover {
+    color: #3b5998;
+}
+
+.insta:hover {
+    color: #dd2a7b;
+}
+
+.tw:hover {
+    color: #08a0e9;
+}
+
+.odsyl {
+    color: white;
+    font-size: 75%;
+}
+
+.odsyl:hover {
+    color: white;
+    opacity: 0.6;
+}
+
+.copyright>h5 {
+    text-align: center;
+    color: #fff;
+}
